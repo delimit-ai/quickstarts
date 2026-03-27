@@ -3,6 +3,7 @@
 [![npm](https://img.shields.io/npm/v/delimit-cli)](https://www.npmjs.com/package/delimit-cli)
 [![GitHub Action](https://img.shields.io/badge/GitHub%20Action-v1-blue)](https://github.com/marketplace/actions/delimit-api-governance)
 [![Docs](https://img.shields.io/badge/docs-delimit.ai-green)](https://delimit.ai/docs)
+[![API Governance](https://delimit-ai.github.io/badge/pass.svg)](https://github.com/marketplace/actions/delimit-api-governance)
 
 Pick your framework, clone the directory, push. Governance is automatic.
 
