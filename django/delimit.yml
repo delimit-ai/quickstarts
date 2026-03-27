@@ -1,0 +1,5 @@
+# Delimit policy — default preset
+# Blocks destructive changes, warns on risky ones.
+# Docs: https://delimit.ai/docs
+
+preset: default
