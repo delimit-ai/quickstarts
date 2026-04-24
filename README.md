@@ -14,10 +14,12 @@ Each quickstart is a minimal **TaskForge API** with the same five endpoints, a v
 | Framework | Language | Directory | Router |
 |-----------|----------|-----------|--------|
 | [Django REST Framework](django/) | Python | `django/` | DRF ViewSets |
+| [FastAPI](fastapi/) | Python | `fastapi/` | FastAPI |
 | [Spring Boot](spring-boot/) | Java | `spring-boot/` | Spring MVC |
 | [Ruby on Rails](rails/) | Ruby | `rails/` | Rails API |
 | [Go + Gin](go/) | Go | `go/` | Gin |
 | [Express](express/) | Node.js | `express/` | Express |
+| [NestJS](nestjs/) | TypeScript | `nestjs/` | NestJS |
 
 ## Quick start
 
